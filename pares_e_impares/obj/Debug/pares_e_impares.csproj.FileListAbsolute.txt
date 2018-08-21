@@ -1,0 +1,6 @@
+c:\users\fl\documents\visual studio 2015\Projects\pares_e_impares\pares_e_impares\bin\Debug\pares_e_impares.exe.config
+c:\users\fl\documents\visual studio 2015\Projects\pares_e_impares\pares_e_impares\bin\Debug\pares_e_impares.exe
+c:\users\fl\documents\visual studio 2015\Projects\pares_e_impares\pares_e_impares\bin\Debug\pares_e_impares.pdb
+c:\users\fl\documents\visual studio 2015\Projects\pares_e_impares\pares_e_impares\obj\Debug\pares_e_impares.csprojResolveAssemblyReference.cache
+c:\users\fl\documents\visual studio 2015\Projects\pares_e_impares\pares_e_impares\obj\Debug\pares_e_impares.exe
+c:\users\fl\documents\visual studio 2015\Projects\pares_e_impares\pares_e_impares\obj\Debug\pares_e_impares.pdb
